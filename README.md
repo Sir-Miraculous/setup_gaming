@@ -1,5 +1,7 @@
 # Setup Gaming
 
+Applications for gaming on arch and the required driver for amd only.
+
 To setup your gaming environment, run the following command:
 
 ```markdown
